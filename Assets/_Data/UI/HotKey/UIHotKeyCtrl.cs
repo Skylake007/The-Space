@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class UIHotKeyCtrl : SaiMonoBehaviour
 {
-
     private static UIHotKeyCtrl instance;
     public static UIHotKeyCtrl Instance { get => instance; }
 
